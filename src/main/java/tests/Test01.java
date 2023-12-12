@@ -7,7 +7,12 @@ public class Test01 {
 
     }
 
-    // comment test10
+    public void test20() {
+
+    }
+
+    // comment test20
+    // new comment20
     private void method() {
         // tester 8 makes change
             // mroe change
