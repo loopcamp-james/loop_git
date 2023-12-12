@@ -7,7 +7,7 @@ not be merged directly. The goal is to resolve a merge conflict that is preventi
 You can fork and clone the project. Forking the project will allow you to practice without anyone else pushing code you are not expecting.  
 * log into github and navigate to [repository](https://github.com/wanderllama/loop_git).
 * click on fork in the top right corner
-![Screenshot 2023-12-11 at 11.44.45 PM.png](..%2F..%2FDesktop%2FScreenshot%202023-12-11%20at%2011.44.45%E2%80%AFPM.png)
+![Screenshot 2023-12-11 at 11.44.45 PM.png](.idea%2Fpictures%2FScreenshot%202023-12-11%20at%2011.44.45%E2%80%AFPM.png)
 * unselect the checkbox _Copy the master branch only_ 
 * now you can clone the project and click here for [step one](####tester1 and tester2 are at the beginning of the sprint and are ready to to create their automations)  
 &nbsp; 
