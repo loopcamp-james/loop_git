@@ -11,6 +11,14 @@ public class Test01 {
 
     }
 
+    public void test001() {
+
+    }
+
+    public void test22() {
+
+    }
+
     // comment test20
     // new comment20
     private void method() {
