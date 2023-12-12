@@ -145,10 +145,11 @@ public class Utilities extends Driver{
         return texts;
     }
 
-    public static void method1() {
+    public void method1() {
         //method created by tester 1
         // more changes after code review
+        // changes made by test 001
+        // more changes
         // more changes by test002
-        // this is a change
     }
 }

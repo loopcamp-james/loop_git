@@ -11,6 +11,10 @@ public class Test01 {
 
     }
 
+    public void test001() {
+
+    }
+
     public void test22() {
 
     }
